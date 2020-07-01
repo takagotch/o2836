@@ -1,4 +1,4 @@
-### | snippets4
+### Bootstrap 4 Full Page Image Header | snippets4
 ---
 
 
